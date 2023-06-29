@@ -19,4 +19,6 @@ Links usados durantes as aulas
 * [Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
 * [Array.prototype.slice()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
 * [Spread_operator](https://scrimba.com/articles/react-spread-operator/)
+* [Operadores Lógicos](https://ricardo-reis.medium.com/operadores-l%C3%B3gicos-logical-operators-b0687819d1a5)
+* [Operação ternária](https://www.alura.com.br/artigos/o-que-e-o-operador-ternario?gclid=Cj0KCQjw1_SkBhDwARIsANbGpFteStAb6leDOmQrEdr5W62rifK6TCtWfh5XwmQ8I6Riwy1OKcc550EaArQYEALw_wcB)
 * []()
