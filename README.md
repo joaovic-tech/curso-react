@@ -17,4 +17,6 @@ Links usados durantes as aulas
 * [Component Did Mount](https://pt-br.legacy.reactjs.org/docs/react-component.html#componentdidmount)
 * [API para estudos](https://jsonplaceholder.typicode.com/)
 * [Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
+* [Array.prototype.slice()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
+* [Spread_operator](https://scrimba.com/articles/react-spread-operator/)
 * []()
