@@ -1,6 +1,6 @@
 <img align="right" width="60" height="60" src='./react.png'/>
 
-# curso-react
+# curso-reactjs-nextjs-project-1
 
 Links usados durantes as aulas
 
