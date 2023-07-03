@@ -21,4 +21,9 @@ Links usados durantes as aulas
 * [Spread_operator](https://scrimba.com/articles/react-spread-operator/)
 * [Operadores Lógicos](https://ricardo-reis.medium.com/operadores-l%C3%B3gicos-logical-operators-b0687819d1a5)
 * [Operação ternária](https://www.alura.com.br/artigos/o-que-e-o-operador-ternario?gclid=Cj0KCQjw1_SkBhDwARIsANbGpFteStAb6leDOmQrEdr5W62rifK6TCtWfh5XwmQ8I6Riwy1OKcc550EaArQYEALw_wcB)
+
+### Tests
+* [Jest Cheat Sheet](https://github.com/sapegin/jest-cheat-sheet)
+* [Jest Dom](https://github.com/testing-library/jest-dom)
+* [Test User-event](https://github.com/testing-library/user-event)
 * []()
