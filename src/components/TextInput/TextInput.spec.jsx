@@ -1,9 +1,9 @@
-/* eslint-disable testing-library/no-node-access */
 import { render, screen } from '@testing-library/react';
-import { TextInput } from '.';
 import userEvent from '@testing-library/user-event';
 
-describe('< TextInput/>', () => {
+import { TextInput } from '.';
+
+describe('<TextInput />', () => {
   it('should have a value of searchValue', () => {
     const fn = jest.fn();
     render(<TextInput handleChange={fn} searchValue={'testando'} />);
